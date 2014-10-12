@@ -2,7 +2,6 @@
 #include <WaspSensorCities.h>
 
 
-
 //communication
 char aux_str[1000];
 char args[600];
